@@ -17,9 +17,8 @@
 - 使用 Clion Cmake Projet 打开
 - 编译运行
 
-**注意事项**
+**如何更改分辨率?**
 
-如何更改分辨率?
 **[lv_drv_conf.h](LVGL-Emulator-Project/lv_drv_conf.h)**
 
 ```C
